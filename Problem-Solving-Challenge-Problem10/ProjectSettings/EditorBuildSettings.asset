@@ -1,0 +1,35 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!1045 &1
+EditorBuildSettings:
+  m_ObjectHideFlags: 0
+  serializedVersion: 2
+  m_Scenes:
+  - enabled: 1
+    path: Assets/Scane/Menu.unity
+    guid: bd6eb2044e7381547ab6d6c0fdeeff3d
+  - enabled: 1
+    path: Assets/Scane/ProblemSolve1.unity
+    guid: 9edd61b0752e16042b839bfd2b714e63
+  - enabled: 1
+    path: Assets/Scane/ProblemSolve2.unity
+    guid: 08b9c23b617e65a458a997a5d6622b70
+  - enabled: 1
+    path: Assets/Scane/ProblemSolve3.unity
+    guid: 3bb61356357b33c4bbf201d0c0271c78
+  - enabled: 1
+    path: Assets/Scane/ProblemSolve4.unity
+    guid: b962db288ef49e141b2c41aaaa14c39d
+  - enabled: 1
+    path: Assets/Scane/ProblemSolve5.unity
+    guid: 35471a66d1088b14a9576953edabea43
+  - enabled: 1
+    path: Assets/Scane/ProblemSolve6.unity
+    guid: beb45808c711c1c4aa68711b48753d37
+  - enabled: 1
+    path: Assets/Scane/ProblemSolve7.unity
+    guid: 86e899a1b1f4b4d43b5bb6064c0f9bb4
+  - enabled: 1
+    path: Assets/Scane/ProblemSolve8.unity
+    guid: e2b99c218dd9cd843ac0b0b9c547c549
+  m_configObjects: {}
